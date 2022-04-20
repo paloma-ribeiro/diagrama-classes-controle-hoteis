@@ -22,4 +22,7 @@ Além da categoria, os quartos tem também a quantidade de camas, podendo ser de
 
 #### Interprete o texto acima de seu cliente e modele o diagrama de classes. Se necessário, explique em texto o porquê de suas escolhas. 
 
+
+## Resolução
+
 ![](diagrama-classes.png)
